@@ -4,8 +4,8 @@ tagline: Mere Blog Theme
 email: test-email@domain.com
 description: >
   The demo site for Mere Blog Theme, made for Jekyll and GitHub pages websites
-baseurl: "/test1"
-url: "https://yashiki-takamichi.github.io/test1/"
+baseurl: "/ishokumoto"
+url: "https://9208k5.github.io/ishokumoto/"
 permalink: pretty
 
 paginate: 6
